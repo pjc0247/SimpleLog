@@ -7,16 +7,20 @@
 #ifndef _LOG_H
 #define _LOG_H
 
-
-#define TAG_1           "TestTag1"
-#define TAG_2           "TestTag2"
-#define TAG_3           0           // log disabled
-
-#define TAG_NETWORK     "Network"
-#define TAG_File        "FileIO"
-
-
-#define LOG_FUNC        printf
+/*
+  Tag Example
+  
+  
+  #define TAG_1           "TestTag1"
+  #define TAG_2           "TestTag2"
+  #define TAG_3           0           // log disabled
+  
+  #define TAG_NETWORK     "Network"
+  #define TAG_File        "FileIO"
+  
+  
+  #define LOG_FUNC        printf
+*/
 
 /*
   Log
