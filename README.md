@@ -10,6 +10,8 @@ simple log for c++
 #define TAG_B   0
 
 Log( TAG_A, "test log %d, %s", 1, "hello" );
+// test log 1, hello
 Log( TAG_B, "test2" );
+// 
 
 ```
