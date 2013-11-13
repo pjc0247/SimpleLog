@@ -16,7 +16,7 @@
   #define TAG_3           0           // log disabled
   
   #define TAG_NETWORK     "Network"
-  #define TAG_File        "FileIO"
+  #define TAG_FILE        "FileIO"
 */  
 
   
